@@ -1,16 +1,14 @@
-### Hi there 👋
+### I'm a beginner QA Engineer
 
-<!--
-**TatyanaGalushka/tatyanagalushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+![Use Case](https://img.shields.io/badge/-Use_Case-808080?style=for-the-badge&)
+![Test case](https://img.shields.io/badge/-Test_case-808080?style=for-the-badge&)
+![Check_list](https://img.shields.io/badge/-Check_list-808080?style=for-the-badge&)
+![Bug Reporting](https://img.shields.io/badge/-Bug_Reporting-808080?style=for-the-badge&)
+![HTTP](https://img.shields.io/badge/-HTTP-808080?style=for-the-badge&)
+![API](https://img.shields.io/badge/-API-808080?style=for-the-badge&)
+![Postman](https://img.shields.io/badge/-Postman-808080?style=for-the-badge&)
+![TestIT](https://img.shields.io/badge/-Test_IT-808080?style=for-the-badge&)
+![SQL](https://img.shields.io/badge/-SQL-808080?style=for-the-badge&)
